@@ -1,0 +1,2 @@
+# tanya.py.
+TANYA jAWAB
